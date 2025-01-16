@@ -1,1 +1,2 @@
-# Blue-Star-Wiki
+# Blue-Star-
+First Blue Star wikipage made. 
