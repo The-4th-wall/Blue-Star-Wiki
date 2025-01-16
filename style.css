@@ -1,0 +1,75 @@
+.community-header{
+    background-image: url(/webfinal-items/images/space-backgroudn.avif);
+    background-size: cover;
+    height: 160px; 
+    width: 100%;
+    background-position: center;
+    display: flex; 
+}
+
+.Fandom{
+    padding: 10px 0;
+    font-size: 20px;
+    vertical-align: middle;
+    width: 90%; 
+    font-weight: bold;
+}
+body{
+    background-color: #d8d8d8;
+}
+
+.minigroup{
+    margin-right: 20px;
+}
+.quote{
+    text-align: center;
+    font-size: 26px;
+}
+.nav{
+    text-decoration-color: aliceblue;
+}
+
+.nav-item{
+    font-weight: bold;
+    background-color: #4f4c5c;
+    border: 2px solid #17153B;
+}
+
+.wrapper {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border: 2px solid #17153B 
+}
+.wrapper > .Title{
+    border:2px solid #17153B;
+    background-color: #17153B;
+    font-weight: bold;
+}
+.wrapper > .details{
+    border:1px solid #17153B;
+    background-color: #4f4c5c;
+    padding: 5px;
+}
+
+h1{
+    font-weight: bold;
+}
+
+#page-header{
+    margin:20px;
+}
+
+#character-info {
+    flex: 1;
+    margin:20px;
+}
+
+#contents{
+    position:sticky;
+    margin: 20px; 
+}
+
+#Lore{
+    margin:20px;
+}
